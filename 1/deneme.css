@@ -1,0 +1,29 @@
+body {
+    background-image: url(./img/resim-2.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#h1{
+    color: rgb(194, 86, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#p{
+    text-align: center;
+    background-color: beige;
+    border: 10px;
+    width: 400px;
+}
+
+.link {
+    border: 10px;
+
+
+
+}
+
+ul a:hover{
+    border: 10px;
+}
