@@ -20,7 +20,7 @@
 }
 
 .container{
-    border: 5px solid red;
+    border: 2px solid red;
 }
 
 .box{
@@ -30,6 +30,7 @@
 
 .box1{
     background-color: green;
+    font-size: 20px;
     width: 30%;
     height: 20vh;
 
@@ -44,5 +45,6 @@
     background-color: blue;
     width: 50%;
     height: 40vh;
+    /* float: right; */
     
 }
