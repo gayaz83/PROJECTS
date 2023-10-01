@@ -1,0 +1,40 @@
+.main{
+    background-color: olive;
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.box1{
+    background-color: rgb(35, 35, 196, .87);
+    width: 100px;
+    height: 100px;
+}
+.box2{
+    background-color: rgb(185, 59, 171, .87);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    /* top: 10px;
+    left: 20px; */
+}
+.box3{
+    background-color: rgb(156, 16, 81, .87 );
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.icerde{
+    background-color: aliceblue;
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
