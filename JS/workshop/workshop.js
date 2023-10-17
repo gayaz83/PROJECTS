@@ -84,4 +84,5 @@ console.log(messageToUsername);
 
 let store = document.getElementById("parag")
 
-store.innerText = message + username
+store.innerText = message + " " + userName
+
